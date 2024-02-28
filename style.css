@@ -1,0 +1,67 @@
+h1 {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+    text-shadow:
+        2px 2px 1px darkred;
+}
+
+h2 {
+    color:red;
+}
+
+body{
+    background-color: #0D1B2A;
+    cursor:default;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(224, 225, 221);
+}
+
+
+img{
+    padding: 10px;
+    border-color: black;
+    margin-top: 20px;
+    background-color:white;
+    border-radius: 10px;
+}
+
+img:hover{
+    filter: brightness(70%);
+}
+    
+
+#name{
+    font-size: 20px;
+}
+
+.section:hover{
+    background-color: #1B263B;
+}
+
+.section{
+    padding: 20px;
+    border-radius: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.class{
+   align-items: right;
+}
+
+.link:hover{
+    filter: brightness(50%);
+}
+
+.link{
+    align-self:stretch;
+}
+
+table{
+    table-layout: fixed;
+    width: 100%;
+}
