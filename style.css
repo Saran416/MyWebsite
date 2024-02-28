@@ -1,13 +1,13 @@
 h1 {
     font-size: 50px;
-    color: red;
+    color: pink;
     text-align: center;
     text-shadow:
         2px 2px 1px darkred;
 }
 
 h2 {
-    color:red;
+    color:pink;
 }
 
 body{
@@ -17,7 +17,6 @@ body{
     font-family: sans-serif;
     color: rgb(224, 225, 221);
 }
-
 
 img{
     padding: 10px;
@@ -31,7 +30,6 @@ img:hover{
     filter: brightness(70%);
 }
     
-
 #name{
     font-size: 20px;
 }
@@ -47,6 +45,8 @@ img:hover{
 
 a{
     text-decoration: none;
+    font-style: italic;
+    color: white;
 }
 
 .class{
@@ -65,3 +65,7 @@ table{
     table-layout: fixed;
     width: 100%;
 }
+
+
+
+        
